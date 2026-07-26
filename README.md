@@ -89,4 +89,4 @@ This project was developed as part of the **Data Analytics with Python** course 
 
 ## Live Demo
 
-https://xxxx.streamlit.app
+[https://xxxx.streamlit.app](https://datascience0.streamlit.app/)
